@@ -3,7 +3,7 @@ import java.util.List;
 
 public class ListClientExample {
 	@SuppressWarnings("rawtypes")
-	private List list;
+	private final List list;
 
 	@SuppressWarnings("rawtypes")
 	public ListClientExample() {

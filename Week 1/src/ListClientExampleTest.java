@@ -21,7 +21,7 @@ public class ListClientExampleTest {
 		ListClientExample lce = new ListClientExample();
 		@SuppressWarnings("rawtypes")
 		List list = lce.getList();
-		assertThat(list, instanceOf(List.class) );
+		assertThat(list, instanceOf(List.class) ); // changed ArrayList to List
 	}
 
 }

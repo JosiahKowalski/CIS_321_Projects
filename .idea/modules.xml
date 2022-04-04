@@ -3,9 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CIS 321 Projects.iml" filepath="$PROJECT_DIR$/CIS 321 Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IndexerProject/IndexerProject.iml" filepath="$PROJECT_DIR$/IndexerProject/IndexerProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyHashMap/MyHashMap.iml" filepath="$PROJECT_DIR$/MyHashMap/MyHashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week 1/Week 1.iml" filepath="$PROJECT_DIR$/Week 1/Week 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 11/Week 11.iml" filepath="$PROJECT_DIR$/Week 11/Week 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 12/Week 12.iml" filepath="$PROJECT_DIR$/Week 12/Week 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 13/Week 13.iml" filepath="$PROJECT_DIR$/Week 13/Week 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 14/Week 14.iml" filepath="$PROJECT_DIR$/Week 14/Week 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 15/Week 15.iml" filepath="$PROJECT_DIR$/Week 15/Week 15.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week 2/Week 2.iml" filepath="$PROJECT_DIR$/Week 2/Week 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week 3/Week 3.iml" filepath="$PROJECT_DIR$/Week 3/Week 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 4/Week 4.iml" filepath="$PROJECT_DIR$/Week 4/Week 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 5/Week 5.iml" filepath="$PROJECT_DIR$/Week 5/Week 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 6/Week 6.iml" filepath="$PROJECT_DIR$/Week 6/Week 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 7/Week 7.iml" filepath="$PROJECT_DIR$/Week 7/Week 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 8/Week 8.iml" filepath="$PROJECT_DIR$/Week 8/Week 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 9/Week 9.iml" filepath="$PROJECT_DIR$/Week 9/Week 9.iml" />
     </modules>
   </component>
 </project>
